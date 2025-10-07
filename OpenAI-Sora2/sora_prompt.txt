@@ -1,20 +1,26 @@
-Scene setup:
-Same sunny background as in the image. Slight camera depth movement for realism. Natural ambient sound: faint breeze, birds, soft outdoor hum.
+A cinematic 8-second shot of a sleek chrome astronaut standing on a glowing digital launchpad shaped like neural circuits. The camera slowly orbits around the astronaut as blue and magenta lights pulse through the circuits. The astronaut raises their hand and activates a holographic AI core made of floating geometric data symbols. The holographic core transforms into a luminous data-rocket that bursts upward into the starry night sky, leaving trails of light and particles forming the words “SirusAI — From Idea to Orbit” in glowing letters across a nebula.
+Style: cinematic, ultra-detailed, volumetric lighting, high contrast, smooth motion, lens flare, depth of field, glowing particles, holographic sci-fi aesthetic.
 
-Action & Dialogue:
+🎵 Matching Soundtrack Cue
 
-(0:00–0:01)
-Man looks at the camera and waves.
-Dialogue (warm, confident tone): “Hi there!”
+Mood: inspirational / epic / technological wonder
 
-(0:01–0:03)
-Man takes one step closer, subtle camera zoom-in.
-Dialogue: “SirusAI helps companies scale, grow,”
+Tempo: 90–100 BPM, slow cinematic rise
 
-(0:03–0:04)
-Man smiles, gives thumbs-up.
-Dialogue: “… and become more efficient.”
+Structure:
 
-Background Ambience:
-Natural outdoor ambience (light breeze, birds, distant chatter).
-No music, no SFX, no subtitles unless desired.
+0–3 s: deep synth pad + low sub-rumble (neural energy building)
+
+3–6 s: shimmering arpeggiated synths and soft choir swell (AI core activates)
+
+6–8 s: orchestral brass + ascending whoosh + bright hit (rocket launch & logo reveal)
+
+Suggested royalty-free tracks:
+
+“Epic Technology Intro” – AudioJungle
+
+“Cinematic Data Rise” – Pixabay Music
+
+“Future Horizon” – Uppbeat
+
+or create your own short cue in A minor, layered synth + pad + riser + impact.

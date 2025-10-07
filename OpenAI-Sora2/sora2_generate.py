@@ -56,9 +56,9 @@ def _append_job_log(entry: Dict[str, Any]) -> None:
 def generate_video(
     prompt: str,
     *,
-    model: str = "sora-2",
-    size: str = "720x1280",
-    seconds: str = "4",
+    model: str = "sora-2-pro",
+    size: str = "1792x1024",
+    seconds: str = "8",
     webhook_url: Optional[str] = None,
     base_url: str = DEFAULT_BASE_URL,
     create_timeout_s: int = 60,
